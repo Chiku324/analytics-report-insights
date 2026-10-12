@@ -1,0 +1,301 @@
+Order_ID,Order_Date,Region,Sales_Channel,Category,Product,Quantity,Unit_Price_INR,Discount_Rate,Revenue_INR,Cost_INR,Profit_INR
+ORD0297,2025-01-05,West,Mobile App,Books,Data Analytics Guide,1,647.39,0.15,550.28,431.32,118.96
+ORD0074,2025-01-06,West,Marketplace,Home & Kitchen,Water Bottle,1,500.8,0.15,425.68,362.77,62.91
+ORD0014,2025-01-06,West,Website,Electronics,Smart Watch,3,3152.14,0.05,8983.6,6146.64,2836.96
+ORD0243,2025-01-09,North,Website,Home & Kitchen,Desk Lamp,1,1467.88,0.1,1321.09,1009.15,311.94
+ORD0064,2025-01-10,South,Website,Electronics,Smart Watch,1,2934.89,0.0,2934.89,2123.32,811.57
+ORD0214,2025-01-10,West,Marketplace,Books,Business Strategy,2,551.78,0.0,1103.56,711.12,392.44
+ORD0065,2025-01-11,West,Marketplace,Home & Kitchen,Desk Lamp,1,1494.31,0.15,1270.16,1147.61,122.55
+ORD0020,2025-01-11,North,Mobile App,Home & Kitchen,Desk Lamp,1,1507.74,0.0,1507.74,908.65,599.09
+ORD0241,2025-01-12,South,Website,Fashion,Wallet,2,828.89,0.15,1409.11,1056.39,352.72
+ORD0237,2025-01-12,West,Mobile App,Books,Business Strategy,3,597.55,0.15,1523.75,1016.07,507.68
+ORD0204,2025-01-12,North,Website,Electronics,USB Hub,2,1027.5,0.0,2055.0,1405.97,649.03
+ORD0286,2025-01-13,South,Mobile App,Books,Python Basics,1,508.56,0.0,508.56,293.28,215.28
+ORD0269,2025-01-16,West,Website,Fashion,Wallet,2,791.16,0.1,1424.09,1027.44,396.65
+ORD0209,2025-01-20,South,Mobile App,Home & Kitchen,Storage Box,3,669.39,0.0,2008.17,1384.51,623.66
+ORD0198,2025-01-22,South,Marketplace,Electronics,Headphones,1,1908.65,0.15,1622.35,1165.94,456.41
+ORD0184,2025-01-22,West,Mobile App,Fashion,Wallet,1,916.01,0.0,916.01,519.62,396.39
+ORD0244,2025-01-23,East,Website,Books,SQL Handbook,1,477.16,0.0,477.16,277.82,199.34
+ORD0023,2025-01-28,South,Marketplace,Electronics,Headphones,2,1772.69,0.0,3545.38,2152.72,1392.66
+ORD0153,2025-01-30,West,Mobile App,Fashion,Sneakers,1,2678.55,0.0,2678.55,1852.09,826.46
+ORD0017,2025-01-30,South,Website,Home & Kitchen,Water Bottle,1,510.75,0.0,510.75,395.8,114.95
+ORD0215,2025-02-01,East,Website,Home & Kitchen,Desk Lamp,2,1609.34,0.1,2896.81,2159.28,737.53
+ORD0246,2025-02-01,West,Marketplace,Home & Kitchen,Mixer,2,2370.47,0.05,4503.89,3634.24,869.65
+ORD0275,2025-02-02,South,Marketplace,Home & Kitchen,Mixer,1,2534.84,0.0,2534.84,1604.7,930.14
+ORD0281,2025-02-05,West,Mobile App,Books,SQL Handbook,1,487.85,0.05,463.46,342.22,121.24
+ORD0029,2025-02-05,North,Marketplace,Electronics,Keyboard,2,1362.48,0.15,2316.22,1653.04,663.18
+ORD0021,2025-02-06,West,Website,Home & Kitchen,Storage Box,2,619.81,0.0,1239.62,888.03,351.59
+ORD0282,2025-02-07,East,Marketplace,Books,SQL Handbook,2,516.8,0.1,930.24,697.72,232.52
+ORD0194,2025-02-07,South,Website,Home & Kitchen,Storage Box,2,658.12,0.15,1118.8,828.23,290.57
+ORD0148,2025-02-10,North,Marketplace,Books,Business Strategy,3,525.47,0.0,1576.41,894.72,681.69
+ORD0030,2025-02-11,West,Website,Books,Business Strategy,4,523.09,0.05,1987.74,1265.66,722.08
+ORD0089,2025-02-11,North,Marketplace,Electronics,USB Hub,3,945.84,0.0,2837.52,1620.24,1217.28
+ORD0050,2025-02-13,South,Website,Fashion,Sneakers,1,2731.2,0.0,2731.2,1924.79,806.41
+ORD0254,2025-02-20,South,Marketplace,Books,Business Strategy,4,545.97,0.1,1965.49,1224.1,741.39
+ORD0106,2025-02-20,North,Mobile App,Electronics,USB Hub,1,877.38,0.0,877.38,491.84,385.54
+ORD0292,2025-02-22,West,Marketplace,Home & Kitchen,Storage Box,1,659.35,0.05,626.38,464.35,162.03
+ORD0034,2025-02-23,East,Marketplace,Home & Kitchen,Storage Box,1,602.39,0.15,512.03,352.85,159.18
+ORD0067,2025-02-25,South,Website,Electronics,Smart Watch,2,3606.42,0.1,6491.56,4625.09,1866.47
+ORD0289,2025-02-25,West,Website,Home & Kitchen,Desk Lamp,2,1453.17,0.05,2761.02,1972.72,788.3
+ORD0087,2025-02-28,East,Marketplace,Home & Kitchen,Desk Lamp,4,1549.32,0.0,6197.28,3493.51,2703.77
+ORD0188,2025-02-28,East,Marketplace,Electronics,Keyboard,2,1196.1,0.15,2033.37,1380.5,652.87
+ORD0044,2025-03-01,West,Mobile App,Fashion,T-Shirt,2,802.12,0.0,1604.24,922.33,681.91
+ORD0135,2025-03-04,North,Mobile App,Books,Business Strategy,4,624.41,0.1,2247.88,1872.38,375.5
+ORD0202,2025-03-04,West,Website,Fashion,Wallet,1,739.36,0.05,702.39,567.41,134.98
+ORD0193,2025-03-08,West,Marketplace,Electronics,Headphones,1,2069.82,0.1,1862.84,1388.66,474.18
+ORD0272,2025-03-09,North,Website,Electronics,Keyboard,2,1247.1,0.15,2120.07,1605.89,514.18
+ORD0232,2025-03-10,West,Marketplace,Books,Data Analytics Guide,2,745.69,0.05,1416.81,962.9,453.91
+ORD0239,2025-03-11,South,Marketplace,Books,Business Strategy,5,547.59,0.1,2464.16,1742.43,721.73
+ORD0268,2025-03-13,West,Mobile App,Electronics,Smart Watch,1,3229.67,0.0,3229.67,2029.32,1200.35
+ORD0255,2025-03-16,South,Mobile App,Electronics,Smart Watch,2,3347.23,0.1,6025.01,4136.47,1888.54
+ORD0126,2025-03-16,East,Website,Home & Kitchen,Storage Box,3,602.86,0.0,1808.58,1049.55,759.03
+ORD0219,2025-03-16,East,Marketplace,Fashion,Backpack,1,1617.8,0.05,1536.91,1233.61,303.3
+ORD0051,2025-03-17,South,Marketplace,Electronics,Headphones,1,1833.81,0.0,1833.81,1200.68,633.13
+ORD0155,2025-03-19,North,Marketplace,Electronics,USB Hub,1,1012.3,0.05,961.68,785.49,176.19
+ORD0057,2025-03-19,East,Marketplace,Home & Kitchen,Mixer,2,2799.17,0.0,5598.34,3613.28,1985.06
+ORD0013,2025-03-20,East,Marketplace,Home & Kitchen,Mixer,2,2590.1,0.15,4403.17,4035.93,367.24
+ORD0097,2025-03-20,South,Mobile App,Books,Business Strategy,2,532.6,0.1,958.68,826.02,132.66
+ORD0141,2025-03-21,West,Mobile App,Home & Kitchen,Water Bottle,2,484.01,0.1,871.22,640.54,230.68
+ORD0033,2025-03-22,East,Marketplace,Books,Business Strategy,2,630.74,0.15,1072.26,696.08,376.18
+ORD0096,2025-03-23,North,Marketplace,Fashion,Backpack,2,1384.95,0.0,2769.9,1817.42,952.48
+ORD0231,2025-03-23,South,Website,Books,Business Strategy,2,582.82,0.05,1107.36,739.64,367.72
+ORD0203,2025-03-23,East,Mobile App,Fashion,Sneakers,1,2255.61,0.15,1917.27,1482.76,434.51
+ORD0168,2025-03-24,South,Mobile App,Fashion,Wallet,4,749.47,0.1,2698.09,1712.07,986.02
+ORD0016,2025-03-24,East,Website,Electronics,Smart Watch,2,2969.49,0.05,5642.03,4466.74,1175.29
+ORD0040,2025-03-25,West,Marketplace,Home & Kitchen,Mixer,1,2818.77,0.05,2677.83,2057.56,620.27
+ORD0061,2025-03-26,North,Website,Books,Data Analytics Guide,5,671.8,0.1,3023.1,2304.73,718.37
+ORD0294,2025-03-30,South,Mobile App,Fashion,Backpack,2,1467.44,0.0,2934.88,1820.32,1114.56
+ORD0190,2025-03-30,North,Marketplace,Books,Python Basics,3,513.85,0.05,1464.47,1084.64,379.83
+ORD0108,2025-03-31,West,Marketplace,Electronics,USB Hub,2,864.19,0.15,1469.12,1007.5,461.62
+ORD0139,2025-04-03,South,Mobile App,Home & Kitchen,Mixer,1,2821.63,0.0,2821.63,1611.44,1210.19
+ORD0073,2025-04-04,East,Marketplace,Books,Data Analytics Guide,1,626.98,0.05,595.63,471.79,123.84
+ORD0250,2025-04-08,South,Marketplace,Electronics,Smart Watch,1,3363.98,0.0,3363.98,2526.12,837.86
+ORD0252,2025-04-08,South,Marketplace,Electronics,USB Hub,4,966.52,0.0,3866.08,2479.03,1387.05
+ORD0180,2025-04-08,East,Mobile App,Fashion,Sneakers,3,2188.68,0.05,6237.74,4023.93,2213.81
+ORD0262,2025-04-09,West,Marketplace,Fashion,Sneakers,1,2398.14,0.05,2278.23,1848.1,430.13
+ORD0150,2025-04-12,West,Mobile App,Home & Kitchen,Desk Lamp,3,1489.43,0.0,4468.29,3435.21,1033.08
+ORD0179,2025-04-13,North,Marketplace,Electronics,Smart Watch,4,3292.31,0.15,11193.85,8676.97,2516.88
+ORD0115,2025-04-13,West,Mobile App,Home & Kitchen,Storage Box,2,733.44,0.0,1466.88,893.48,573.4
+ORD0192,2025-04-13,West,Marketplace,Home & Kitchen,Desk Lamp,3,1269.2,0.15,3236.46,2595.35,641.11
+ORD0095,2025-04-15,South,Marketplace,Fashion,T-Shirt,4,706.67,0.1,2544.01,1633.62,910.39
+ORD0035,2025-04-18,North,Website,Fashion,T-Shirt,2,779.26,0.15,1324.74,1032.3,292.44
+ORD0078,2025-04-21,North,Website,Books,Business Strategy,3,629.28,0.15,1604.66,1297.44,307.22
+ORD0053,2025-04-23,West,Marketplace,Home & Kitchen,Mixer,1,2501.98,0.0,2501.98,1638.76,863.22
+ORD0143,2025-04-23,East,Mobile App,Books,Python Basics,1,438.91,0.0,438.91,318.86,120.05
+ORD0119,2025-04-24,North,Website,Electronics,USB Hub,4,877.99,0.1,3160.76,2025.82,1134.94
+ORD0170,2025-04-25,South,Website,Electronics,Smart Watch,4,3551.34,0.05,13495.09,10398.57,3096.52
+ORD0162,2025-04-26,North,Marketplace,Home & Kitchen,Desk Lamp,1,1555.55,0.0,1555.55,1037.19,518.36
+ORD0256,2025-04-28,West,Marketplace,Books,Data Analytics Guide,2,691.37,0.05,1313.6,842.34,471.26
+ORD0113,2025-04-28,North,Mobile App,Fashion,T-Shirt,2,738.66,0.0,1477.32,1025.99,451.33
+ORD0007,2025-04-30,East,Website,Electronics,USB Hub,1,953.03,0.05,905.38,559.82,345.56
+ORD0085,2025-05-03,North,Website,Home & Kitchen,Water Bottle,1,501.06,0.15,425.9,329.74,96.16
+ORD0056,2025-05-03,North,Website,Fashion,Wallet,1,777.15,0.05,738.29,487.46,250.83
+ORD0177,2025-05-04,South,Marketplace,Electronics,Smart Watch,1,3161.84,0.05,3003.75,2330.61,673.14
+ORD0263,2025-05-05,West,Mobile App,Home & Kitchen,Storage Box,2,722.78,0.0,1445.56,826.14,619.42
+ORD0279,2025-05-05,South,Marketplace,Fashion,Wallet,1,877.17,0.05,833.31,505.42,327.89
+ORD0249,2025-05-05,North,Marketplace,Fashion,T-Shirt,1,643.84,0.1,579.46,479.56,99.9
+ORD0041,2025-05-08,South,Website,Fashion,T-Shirt,3,648.92,0.0,1946.76,1455.16,491.6
+ORD0039,2025-05-08,South,Website,Electronics,Smart Watch,3,3587.31,0.1,9685.74,8329.55,1356.19
+ORD0093,2025-05-10,North,Marketplace,Fashion,Backpack,5,1501.57,0.15,6381.67,5553.81,827.86
+ORD0109,2025-05-11,South,Website,Books,Business Strategy,2,618.6,0.1,1113.48,936.9,176.58
+ORD0066,2025-05-12,South,Mobile App,Fashion,T-Shirt,2,798.65,0.0,1597.3,1164.26,433.04
+ORD0172,2025-05-12,East,Website,Home & Kitchen,Desk Lamp,2,1514.53,0.15,2574.7,1960.86,613.84
+ORD0015,2025-05-15,South,Mobile App,Home & Kitchen,Water Bottle,4,487.31,0.15,1656.85,1345.1,311.75
+ORD0010,2025-05-18,West,Mobile App,Electronics,Keyboard,4,1250.15,0.05,4750.57,2994.88,1755.69
+ORD0090,2025-05-18,West,Marketplace,Electronics,Keyboard,2,1275.45,0.05,2423.36,1509.48,913.88
+ORD0142,2025-05-20,East,Website,Home & Kitchen,Water Bottle,1,463.86,0.15,394.28,307.04,87.24
+ORD0217,2025-05-23,West,Mobile App,Fashion,T-Shirt,4,801.9,0.05,3047.22,2284.22,763.0
+ORD0072,2025-05-23,West,Mobile App,Books,Data Analytics Guide,3,677.6,0.1,1829.52,1275.32,554.2
+ORD0166,2025-05-25,East,Website,Books,SQL Handbook,5,552.11,0.15,2346.47,1606.18,740.29
+ORD0205,2025-05-25,East,Marketplace,Books,SQL Handbook,1,451.02,0.0,451.02,292.76,158.26
+ORD0171,2025-05-27,North,Website,Books,Data Analytics Guide,3,661.23,0.15,1686.14,1093.43,592.71
+ORD0261,2025-05-27,South,Website,Electronics,USB Hub,3,1014.7,0.0,3044.1,2317.02,727.08
+ORD0086,2025-05-28,South,Mobile App,Fashion,Wallet,1,766.68,0.05,728.35,560.6,167.75
+ORD0299,2025-05-30,West,Marketplace,Electronics,Smart Watch,1,3110.94,0.1,2799.85,2115.75,684.1
+ORD0079,2025-06-01,North,Website,Home & Kitchen,Storage Box,1,587.3,0.15,499.2,340.11,159.09
+ORD0047,2025-06-03,West,Marketplace,Fashion,Wallet,1,859.44,0.15,730.52,497.85,232.67
+ORD0173,2025-06-04,North,Mobile App,Electronics,Headphones,1,1907.53,0.15,1621.4,1249.69,371.71
+ORD0120,2025-06-05,East,Marketplace,Books,Python Basics,1,504.82,0.0,504.82,322.78,182.04
+ORD0077,2025-06-06,South,Website,Fashion,T-Shirt,1,663.7,0.0,663.7,478.44,185.26
+ORD0287,2025-06-09,West,Marketplace,Fashion,Wallet,3,824.22,0.05,2349.03,1630.76,718.27
+ORD0019,2025-06-09,North,Mobile App,Books,Business Strategy,2,566.17,0.0,1132.34,687.35,444.99
+ORD0028,2025-06-10,North,Website,Electronics,Headphones,2,1846.28,0.15,3138.68,2164.61,974.07
+ORD0133,2025-06-10,North,Website,Fashion,Sneakers,4,2572.09,0.1,9259.52,5817.46,3442.06
+ORD0045,2025-06-10,West,Website,Books,Python Basics,1,469.87,0.05,446.38,263.23,183.15
+ORD0201,2025-06-13,South,Mobile App,Fashion,Wallet,1,794.11,0.15,674.99,456.15,218.84
+ORD0247,2025-06-13,South,Mobile App,Books,SQL Handbook,1,497.06,0.15,422.5,327.52,94.98
+ORD0253,2025-06-14,West,Mobile App,Fashion,Wallet,2,849.74,0.05,1614.51,1036.95,577.56
+ORD0229,2025-06-15,East,Marketplace,Home & Kitchen,Water Bottle,1,479.44,0.05,455.47,368.89,86.58
+ORD0144,2025-06-17,South,Marketplace,Electronics,Headphones,2,1813.79,0.0,3627.58,2312.39,1315.19
+ORD0183,2025-06-17,East,Mobile App,Fashion,Sneakers,2,2590.6,0.0,5181.2,3671.64,1509.56
+ORD0063,2025-06-17,North,Mobile App,Fashion,Wallet,1,910.24,0.1,819.22,553.45,265.77
+ORD0235,2025-06-17,West,Website,Books,Python Basics,2,485.65,0.1,874.17,554.53,319.64
+ORD0043,2025-06-18,East,Website,Fashion,Backpack,5,1454.67,0.15,6182.35,4668.95,1513.4
+ORD0158,2025-06-18,East,Website,Electronics,USB Hub,1,972.84,0.15,826.91,730.46,96.45
+ORD0265,2025-06-19,North,Website,Electronics,Headphones,1,2025.57,0.15,1721.73,1335.59,386.14
+ORD0163,2025-06-22,South,Marketplace,Home & Kitchen,Mixer,1,2457.55,0.15,2088.92,1808.95,279.97
+ORD0116,2025-06-23,West,Marketplace,Electronics,USB Hub,5,841.67,0.0,4208.35,3147.14,1061.21
+ORD0099,2025-06-24,West,Website,Fashion,Backpack,1,1461.96,0.15,1242.67,999.08,243.59
+ORD0240,2025-06-28,South,Website,Electronics,Keyboard,5,1197.92,0.0,5989.6,4296.98,1692.62
+ORD0169,2025-06-28,North,Mobile App,Electronics,USB Hub,1,922.95,0.0,922.95,589.6,333.35
+ORD0137,2025-06-29,North,Marketplace,Fashion,Backpack,3,1565.29,0.1,4226.28,3495.54,730.74
+ORD0273,2025-07-01,North,Marketplace,Electronics,Smart Watch,3,2889.87,0.1,7802.65,5541.56,2261.09
+ORD0005,2025-07-03,West,Website,Fashion,Sneakers,3,2597.84,0.15,6624.49,4510.19,2114.3
+ORD0107,2025-07-03,South,Website,Fashion,Wallet,1,826.23,0.15,702.3,583.99,118.31
+ORD0161,2025-07-05,West,Website,Electronics,Smart Watch,1,3640.94,0.05,3458.89,2796.11,662.78
+ORD0206,2025-07-07,East,Website,Books,Business Strategy,1,502.03,0.15,426.73,298.59,128.14
+ORD0117,2025-07-07,East,Marketplace,Electronics,USB Hub,1,930.73,0.1,837.66,590.8,246.86
+ORD0187,2025-07-10,East,Website,Books,Python Basics,2,464.56,0.1,836.21,578.2,258.01
+ORD0157,2025-07-10,East,Website,Fashion,Wallet,2,787.67,0.15,1339.04,885.41,453.63
+ORD0208,2025-07-11,North,Website,Fashion,Sneakers,3,2279.43,0.15,5812.55,4392.36,1420.19
+ORD0048,2025-07-14,West,Marketplace,Home & Kitchen,Storage Box,2,720.48,0.05,1368.91,887.62,481.29
+ORD0277,2025-07-14,East,Marketplace,Fashion,Wallet,1,883.1,0.15,750.63,513.35,237.28
+ORD0059,2025-07-14,West,Marketplace,Books,Python Basics,4,438.59,0.1,1578.92,1309.27,269.65
+ORD0102,2025-07-15,East,Website,Books,Data Analytics Guide,2,591.02,0.15,1004.73,912.57,92.16
+ORD0118,2025-07-15,East,Marketplace,Fashion,Backpack,2,1526.8,0.15,2595.56,2300.5,295.06
+ORD0111,2025-07-16,East,Website,Books,Python Basics,1,469.34,0.15,398.94,290.08,108.86
+ORD0207,2025-07-17,North,Mobile App,Books,Business Strategy,3,580.7,0.15,1480.79,1005.76,475.03
+ORD0271,2025-07-19,East,Website,Fashion,Sneakers,1,2163.12,0.05,2054.96,1410.98,643.98
+ORD0267,2025-07-23,East,Mobile App,Electronics,Smart Watch,1,3072.38,0.1,2765.14,2168.23,596.91
+ORD0012,2025-07-24,North,Website,Fashion,T-Shirt,5,654.21,0.1,2943.95,1867.47,1076.48
+ORD0181,2025-07-24,East,Website,Books,SQL Handbook,1,473.35,0.1,426.02,300.34,125.68
+ORD0026,2025-07-25,West,Mobile App,Electronics,Keyboard,1,1375.59,0.05,1306.81,1049.71,257.1
+ORD0290,2025-07-27,South,Mobile App,Home & Kitchen,Desk Lamp,2,1411.25,0.0,2822.5,2031.07,791.43
+ORD0222,2025-07-31,South,Mobile App,Fashion,Wallet,1,874.15,0.0,874.15,674.7,199.45
+ORD0199,2025-08-02,West,Mobile App,Electronics,USB Hub,4,932.75,0.05,3544.45,2466.48,1077.97
+ORD0175,2025-08-02,North,Mobile App,Home & Kitchen,Water Bottle,2,495.08,0.15,841.64,668.5,173.14
+ORD0140,2025-08-03,North,Website,Books,Business Strategy,1,537.85,0.05,510.96,391.92,119.04
+ORD0027,2025-08-05,North,Marketplace,Books,Data Analytics Guide,1,620.38,0.0,620.38,423.85,196.53
+ORD0002,2025-08-05,South,Marketplace,Electronics,Headphones,1,1724.7,0.15,1465.99,959.11,506.88
+ORD0004,2025-08-05,West,Website,Fashion,Sneakers,1,2734.33,0.05,2597.61,1568.16,1029.45
+ORD0182,2025-08-06,North,Website,Electronics,USB Hub,2,995.03,0.15,1691.55,1228.99,462.56
+ORD0134,2025-08-10,East,Marketplace,Electronics,Smart Watch,3,3325.1,0.15,8479.0,7681.22,797.78
+ORD0195,2025-08-10,South,Mobile App,Electronics,Headphones,2,1756.86,0.0,3513.72,2193.31,1320.41
+ORD0070,2025-08-10,East,Marketplace,Fashion,Wallet,3,807.1,0.15,2058.11,1869.39,188.72
+ORD0164,2025-08-13,West,Website,Electronics,USB Hub,1,971.91,0.1,874.72,671.04,203.68
+ORD0114,2025-08-14,West,Website,Electronics,Smart Watch,3,2952.11,0.05,8413.51,5536.49,2877.02
+ORD0103,2025-08-14,East,Mobile App,Electronics,USB Hub,1,842.43,0.0,842.43,477.84,364.59
+ORD0110,2025-08-15,East,Website,Fashion,Sneakers,2,2414.59,0.05,4587.72,3163.46,1424.26
+ORD0037,2025-08-15,East,Marketplace,Books,Python Basics,1,511.32,0.0,511.32,345.39,165.93
+ORD0130,2025-08-16,East,Mobile App,Electronics,Headphones,1,1686.75,0.0,1686.75,1034.41,652.34
+ORD0100,2025-08-17,East,Website,Books,Business Strategy,1,599.89,0.1,539.9,392.77,147.13
+ORD0189,2025-08-17,North,Mobile App,Home & Kitchen,Storage Box,2,747.28,0.0,1494.56,864.16,630.4
+ORD0128,2025-08-18,East,Mobile App,Fashion,Backpack,2,1433.08,0.15,2436.24,1604.97,831.27
+ORD0024,2025-08-18,North,Website,Home & Kitchen,Mixer,1,2640.71,0.0,2640.71,1721.53,919.18
+ORD0132,2025-08-20,East,Mobile App,Home & Kitchen,Mixer,1,2634.77,0.1,2371.29,1891.27,480.02
+ORD0200,2025-08-21,South,Mobile App,Electronics,Headphones,1,1807.03,0.1,1626.33,1078.66,547.67
+ORD0226,2025-08-21,East,Website,Books,Data Analytics Guide,3,661.05,0.0,1983.15,1459.65,523.5
+ORD0236,2025-08-21,East,Marketplace,Home & Kitchen,Mixer,2,2377.53,0.1,4279.55,3351.06,928.49
+ORD0227,2025-08-23,South,Website,Fashion,T-Shirt,1,688.99,0.05,654.54,468.92,185.62
+ORD0216,2025-08-24,South,Website,Fashion,Sneakers,2,2680.59,0.05,5093.12,3700.92,1392.2
+ORD0242,2025-08-24,West,Marketplace,Fashion,T-Shirt,1,794.05,0.0,794.05,442.61,351.44
+ORD0042,2025-08-24,South,Mobile App,Fashion,Sneakers,3,2682.79,0.0,8048.37,4470.41,3577.96
+ORD0178,2025-08-26,South,Website,Books,Data Analytics Guide,3,595.25,0.1,1607.17,997.35,609.82
+ORD0058,2025-08-27,North,Marketplace,Books,Python Basics,1,452.27,0.15,384.43,347.16,37.27
+ORD0176,2025-08-29,North,Mobile App,Electronics,USB Hub,5,867.07,0.0,4335.35,2740.51,1594.84
+ORD0022,2025-08-31,West,Marketplace,Books,Data Analytics Guide,1,692.08,0.05,657.48,448.07,209.41
+ORD0055,2025-09-01,West,Marketplace,Books,Business Strategy,3,610.48,0.05,1739.87,1329.88,409.99
+ORD0220,2025-09-03,South,Website,Home & Kitchen,Desk Lamp,3,1354.9,0.15,3455.0,2886.42,568.58
+ORD0213,2025-09-03,North,Website,Home & Kitchen,Mixer,1,2782.47,0.0,2782.47,1896.79,885.68
+ORD0218,2025-09-03,West,Mobile App,Fashion,Sneakers,1,2504.09,0.15,2128.48,1595.93,532.55
+ORD0081,2025-09-03,North,Mobile App,Books,Business Strategy,1,502.06,0.1,451.85,289.31,162.54
+ORD0105,2025-09-07,North,Mobile App,Electronics,Headphones,1,1927.98,0.05,1831.58,1502.68,328.9
+ORD0091,2025-09-09,East,Mobile App,Electronics,USB Hub,1,884.99,0.0,884.99,661.33,223.66
+ORD0082,2025-09-09,South,Website,Electronics,Headphones,1,1985.01,0.05,1885.76,1130.65,755.11
+ORD0225,2025-09-11,East,Mobile App,Home & Kitchen,Storage Box,4,586.51,0.15,1994.13,1615.58,378.55
+ORD0300,2025-09-19,North,Marketplace,Electronics,Headphones,1,1864.4,0.05,1771.18,1257.85,513.33
+ORD0149,2025-09-19,South,Mobile App,Home & Kitchen,Storage Box,1,740.71,0.0,740.71,447.64,293.07
+ORD0185,2025-09-20,North,Website,Home & Kitchen,Water Bottle,1,525.95,0.1,473.36,293.48,179.88
+ORD0196,2025-09-23,East,Marketplace,Fashion,Backpack,1,1588.15,0.15,1349.93,973.73,376.2
+ORD0285,2025-09-23,South,Mobile App,Home & Kitchen,Mixer,1,2640.99,0.15,2244.84,1871.94,372.9
+ORD0046,2025-09-24,North,Marketplace,Home & Kitchen,Storage Box,2,739.19,0.05,1404.46,1025.0,379.46
+ORD0054,2025-09-29,West,Website,Fashion,Wallet,2,863.85,0.15,1468.55,1119.81,348.74
+ORD0069,2025-09-30,West,Website,Books,Business Strategy,1,584.04,0.0,584.04,435.34,148.7
+ORD0165,2025-10-01,West,Mobile App,Home & Kitchen,Storage Box,5,712.46,0.0,3562.3,2260.65,1301.65
+ORD0197,2025-10-01,East,Marketplace,Electronics,Keyboard,2,1254.19,0.0,2508.38,1759.65,748.73
+ORD0283,2025-10-02,North,Marketplace,Electronics,Headphones,3,1915.92,0.05,5460.37,3381.16,2079.21
+ORD0032,2025-10-03,East,Mobile App,Home & Kitchen,Storage Box,1,641.71,0.0,641.71,482.71,159.0
+ORD0296,2025-10-03,North,Mobile App,Home & Kitchen,Desk Lamp,2,1309.1,0.05,2487.29,1947.04,540.25
+ORD0071,2025-10-03,South,Website,Books,SQL Handbook,2,541.38,0.05,1028.62,675.78,352.84
+ORD0094,2025-10-05,West,Website,Books,SQL Handbook,1,514.8,0.15,437.58,372.71,64.87
+ORD0258,2025-10-05,West,Website,Electronics,Headphones,3,1653.45,0.0,4960.35,3600.21,1360.14
+ORD0191,2025-10-05,South,Website,Fashion,Sneakers,3,2587.09,0.0,7761.27,5685.52,2075.75
+ORD0280,2025-10-07,East,Marketplace,Home & Kitchen,Water Bottle,4,507.7,0.0,2030.8,1321.74,709.06
+ORD0060,2025-10-07,West,Marketplace,Home & Kitchen,Mixer,1,2623.29,0.0,2623.29,1677.43,945.86
+ORD0264,2025-10-10,West,Marketplace,Books,Python Basics,2,484.07,0.0,968.14,643.78,324.36
+ORD0006,2025-10-10,East,Website,Fashion,Sneakers,2,2582.74,0.0,5165.48,3626.63,1538.85
+ORD0098,2025-10-10,East,Mobile App,Home & Kitchen,Mixer,1,2729.6,0.0,2729.6,2043.72,685.88
+ORD0038,2025-10-10,South,Marketplace,Home & Kitchen,Mixer,1,2540.37,0.0,2540.37,1922.43,617.94
+ORD0080,2025-10-11,East,Mobile App,Fashion,T-Shirt,2,761.74,0.0,1523.48,1143.72,379.76
+ORD0125,2025-10-11,North,Mobile App,Home & Kitchen,Desk Lamp,3,1341.55,0.0,4024.65,2943.58,1081.07
+ORD0083,2025-10-13,West,Mobile App,Books,Data Analytics Guide,3,646.81,0.1,1746.39,1199.94,546.45
+ORD0274,2025-10-14,West,Website,Home & Kitchen,Desk Lamp,2,1319.33,0.05,2506.73,1634.02,872.71
+ORD0145,2025-10-14,North,Mobile App,Fashion,Backpack,1,1628.27,0.1,1465.44,902.57,562.87
+ORD0160,2025-10-14,West,Marketplace,Books,Business Strategy,3,587.14,0.15,1497.21,1006.64,490.57
+ORD0151,2025-10-16,West,Mobile App,Books,Business Strategy,3,581.24,0.0,1743.72,1135.42,608.3
+ORD0234,2025-10-16,South,Website,Electronics,Headphones,3,2026.3,0.0,6078.9,4144.12,1934.78
+ORD0211,2025-10-16,East,Marketplace,Fashion,Wallet,3,793.67,0.0,2381.01,1846.18,534.83
+ORD0084,2025-10-19,North,Website,Electronics,Headphones,4,1713.5,0.0,6854.0,4186.89,2667.11
+ORD0088,2025-10-19,West,Mobile App,Fashion,Wallet,1,857.74,0.1,771.97,657.73,114.24
+ORD0230,2025-10-21,West,Mobile App,Electronics,Smart Watch,2,3434.21,0.0,6868.42,4832.56,2035.86
+ORD0146,2025-10-22,East,Website,Books,SQL Handbook,3,502.21,0.0,1506.63,969.0,537.63
+ORD0245,2025-10-22,East,Mobile App,Fashion,Sneakers,1,2685.75,0.15,2282.89,1613.71,669.18
+ORD0154,2025-10-25,West,Marketplace,Electronics,USB Hub,4,938.62,0.0,3754.48,2342.61,1411.87
+ORD0159,2025-10-26,North,Mobile App,Home & Kitchen,Storage Box,1,691.61,0.1,622.45,400.9,221.55
+ORD0127,2025-10-29,North,Mobile App,Fashion,Backpack,1,1369.65,0.1,1232.69,919.03,313.66
+ORD0068,2025-10-31,North,Mobile App,Home & Kitchen,Water Bottle,2,487.7,0.15,829.09,717.18,111.91
+ORD0291,2025-10-31,North,Marketplace,Books,SQL Handbook,1,476.85,0.05,453.01,344.78,108.23
+ORD0174,2025-11-02,South,Marketplace,Electronics,Keyboard,3,1167.38,0.0,3502.14,2421.4,1080.74
+ORD0131,2025-11-02,South,Mobile App,Fashion,Wallet,2,806.04,0.0,1612.08,1202.84,409.24
+ORD0136,2025-11-04,South,Website,Fashion,Sneakers,1,2464.45,0.0,2464.45,1727.7,736.75
+ORD0049,2025-11-07,South,Marketplace,Fashion,Wallet,2,855.13,0.15,1453.72,1126.78,326.94
+ORD0228,2025-11-09,South,Mobile App,Books,SQL Handbook,2,460.84,0.0,921.68,546.1,375.58
+ORD0210,2025-11-10,West,Marketplace,Fashion,T-Shirt,1,737.89,0.05,701.0,506.6,194.4
+ORD0221,2025-11-12,North,Website,Home & Kitchen,Desk Lamp,1,1576.81,0.0,1576.81,1098.61,478.2
+ORD0147,2025-11-13,West,Marketplace,Books,Business Strategy,1,611.12,0.0,611.12,397.35,213.77
+ORD0270,2025-11-13,South,Marketplace,Fashion,T-Shirt,3,644.36,0.0,1933.08,1232.15,700.93
+ORD0104,2025-11-16,East,Marketplace,Books,Python Basics,3,500.89,0.15,1277.27,957.81,319.46
+ORD0276,2025-11-17,East,Marketplace,Books,Data Analytics Guide,2,607.02,0.0,1214.04,932.66,281.38
+ORD0259,2025-11-19,North,Marketplace,Home & Kitchen,Water Bottle,3,451.14,0.15,1150.41,886.33,264.08
+ORD0152,2025-11-20,West,Website,Fashion,Sneakers,2,2371.17,0.0,4742.34,2946.86,1795.48
+ORD0036,2025-11-21,East,Website,Books,Business Strategy,1,540.86,0.0,540.86,376.73,164.13
+ORD0260,2025-11-23,East,Marketplace,Books,SQL Handbook,1,516.53,0.1,464.88,285.5,179.38
+ORD0293,2025-11-24,West,Marketplace,Fashion,Wallet,2,837.4,0.05,1591.06,1056.73,534.33
+ORD0009,2025-11-24,East,Mobile App,Home & Kitchen,Storage Box,3,711.1,0.0,2133.3,1576.54,556.76
+ORD0001,2025-11-24,North,Marketplace,Electronics,Headphones,3,1730.2,0.0,5190.6,3734.06,1456.54
+ORD0257,2025-11-25,West,Website,Books,SQL Handbook,1,549.37,0.0,549.37,319.84,229.53
+ORD0167,2025-11-25,East,Website,Books,Business Strategy,2,509.11,0.15,865.49,759.36,106.13
+ORD0062,2025-11-26,South,Mobile App,Books,Data Analytics Guide,3,614.53,0.05,1751.41,1174.72,576.69
+ORD0011,2025-11-26,West,Marketplace,Books,Data Analytics Guide,1,625.08,0.15,531.32,421.28,110.04
+ORD0129,2025-11-26,West,Marketplace,Electronics,Headphones,5,2001.28,0.1,9005.76,7082.55,1923.21
+ORD0186,2025-11-27,West,Mobile App,Fashion,Sneakers,1,2500.35,0.15,2125.3,1463.43,661.87
+ORD0123,2025-11-27,West,Website,Fashion,Backpack,1,1421.18,0.0,1421.18,1091.85,329.33
+ORD0284,2025-11-27,South,Marketplace,Books,Business Strategy,5,554.19,0.0,2770.95,1586.87,1184.08
+ORD0156,2025-11-27,South,Mobile App,Home & Kitchen,Water Bottle,1,504.72,0.1,454.25,338.43,115.82
+ORD0003,2025-11-29,South,Marketplace,Books,Data Analytics Guide,2,630.21,0.0,1260.42,913.21,347.21
+ORD0224,2025-11-30,North,Mobile App,Home & Kitchen,Water Bottle,4,471.88,0.0,1887.52,1443.58,443.94
+ORD0025,2025-11-30,West,Website,Electronics,Headphones,4,2001.91,0.0,8007.64,5152.72,2854.92
+ORD0223,2025-12-01,North,Website,Books,SQL Handbook,2,544.49,0.05,1034.53,679.38,355.15
+ORD0138,2025-12-03,East,Website,Fashion,Backpack,1,1613.51,0.05,1532.83,1229.42,303.41
+ORD0112,2025-12-04,West,Mobile App,Books,Business Strategy,1,613.95,0.0,613.95,466.26,147.69
+ORD0018,2025-12-04,South,Marketplace,Books,Data Analytics Guide,1,726.77,0.1,654.09,560.92,93.17
+ORD0076,2025-12-06,West,Mobile App,Fashion,Wallet,2,788.75,0.15,1340.88,987.64,353.24
+ORD0124,2025-12-06,South,Website,Home & Kitchen,Water Bottle,1,491.69,0.0,491.69,359.43,132.26
+ORD0233,2025-12-07,East,Website,Home & Kitchen,Desk Lamp,2,1468.54,0.0,2937.08,1970.39,966.69
+ORD0008,2025-12-10,West,Mobile App,Fashion,Backpack,2,1414.18,0.0,2828.36,1661.9,1166.46
+ORD0251,2025-12-10,North,Website,Home & Kitchen,Mixer,1,2929.57,0.05,2783.09,2256.1,526.99
+ORD0031,2025-12-10,North,Website,Fashion,Wallet,1,870.37,0.0,870.37,480.57,389.8
+ORD0266,2025-12-17,South,Marketplace,Fashion,Backpack,1,1668.91,0.0,1668.91,1286.96,381.95
+ORD0298,2025-12-17,North,Website,Books,SQL Handbook,3,505.48,0.0,1516.44,862.88,653.56
+ORD0212,2025-12-19,North,Marketplace,Electronics,USB Hub,1,957.51,0.15,813.88,653.84,160.04
+ORD0122,2025-12-20,East,Marketplace,Fashion,T-Shirt,2,796.35,0.05,1513.07,912.38,600.69
+ORD0092,2025-12-22,North,Mobile App,Books,Business Strategy,2,550.06,0.15,935.1,614.35,320.75
+ORD0295,2025-12-22,West,Marketplace,Home & Kitchen,Mixer,2,2429.61,0.1,4373.3,3145.37,1227.93
+ORD0278,2025-12-22,West,Marketplace,Home & Kitchen,Mixer,1,2966.97,0.05,2818.62,1830.72,987.9
+ORD0288,2025-12-23,East,Marketplace,Books,Business Strategy,1,501.14,0.0,501.14,278.23,222.91
+ORD0121,2025-12-23,East,Website,Books,Data Analytics Guide,4,691.42,0.1,2489.11,1912.74,576.37
+ORD0052,2025-12-23,North,Mobile App,Books,SQL Handbook,1,468.45,0.0,468.45,353.83,114.62
+ORD0101,2025-12-24,West,Marketplace,Home & Kitchen,Mixer,1,2844.1,0.0,2844.1,1772.39,1071.71
+ORD0238,2025-12-25,West,Website,Electronics,Headphones,4,1651.06,0.1,5943.82,3680.54,2263.28
+ORD0248,2025-12-29,South,Mobile App,Home & Kitchen,Mixer,4,2705.55,0.1,9739.98,7339.36,2400.62
+ORD0075,2025-12-31,South,Mobile App,Books,SQL Handbook,3,461.63,0.0,1384.89,890.5,494.39
